@@ -1,8 +1,8 @@
 class Solution:
     def minMovesToSeat(self, seats: List[int], students: List[int]) -> int:
-         qadam = 0
+         a = 0
          seats=sorted(seats)
          students.sort()
-         for st in range(len(students)):
-             qadam += abs(students[st] - seats[st])
-         return qadam
+         for i in range(len(students)):
+             a += abs(students[i] - seats[i])
+         return a
