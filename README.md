@@ -44,4 +44,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/0347-top-k-frequent-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/0397-integer-replacement) |
+## Greedy
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/0397-integer-replacement) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/0397-integer-replacement) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
