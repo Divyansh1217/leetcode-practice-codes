@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0120-triangle](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/0120-triangle) |
 | [0347-top-k-frequent-elements](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0120-triangle](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/0120-triangle) |
 | [0397-integer-replacement](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/0397-integer-replacement) |
 ## Greedy
 |  |
