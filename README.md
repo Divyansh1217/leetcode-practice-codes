@@ -72,4 +72,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/1908-recyclable-and-low-fat-products) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
