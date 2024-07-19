@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0120-triangle](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/0120-triangle) |
 | [0347-top-k-frequent-elements](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/0347-top-k-frequent-elements) |
+| [3463-alternating-groups-i](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/3463-alternating-groups-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,4 +81,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Sliding Window
+|  |
+| ------- |
+| [3463-alternating-groups-i](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/3463-alternating-groups-i) |
 <!---LeetCode Topics End-->
