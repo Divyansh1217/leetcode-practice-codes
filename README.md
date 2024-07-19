@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0120-triangle](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/0120-triangle) |
 | [0347-top-k-frequent-elements](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/0347-top-k-frequent-elements) |
 | [3463-alternating-groups-i](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/3463-alternating-groups-i) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0120-triangle](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/0120-triangle) |
 | [0397-integer-replacement](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/0397-integer-replacement) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Greedy
 |  |
 | ------- |
