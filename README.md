@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0120-triangle](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/0120-triangle) |
 | [0347-top-k-frequent-elements](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/0347-top-k-frequent-elements) |
+| [1019-squares-of-a-sorted-array](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/1019-squares-of-a-sorted-array) |
 | [3463-alternating-groups-i](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/3463-alternating-groups-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Hash Table
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/0347-top-k-frequent-elements) |
+| [1019-squares-of-a-sorted-array](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/1019-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -83,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [1019-squares-of-a-sorted-array](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/1019-squares-of-a-sorted-array) |
 ## Sliding Window
 |  |
 | ------- |
