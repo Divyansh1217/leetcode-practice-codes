@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0120-triangle](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/0120-triangle) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/0215-kth-largest-element-in-an-array) |
+| [0219-contains-duplicate-ii](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/0739-daily-temperatures) |
 | [1019-squares-of-a-sorted-array](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/1019-squares-of-a-sorted-array) |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/0141-linked-list-cycle) |
+| [0219-contains-duplicate-ii](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
@@ -107,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/0219-contains-duplicate-ii) |
 | [3463-alternating-groups-i](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/3463-alternating-groups-i) |
 ## String
 |  |
