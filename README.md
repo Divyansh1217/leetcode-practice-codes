@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/0049-group-anagrams) |
 | [0120-triangle](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/0120-triangle) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/0219-contains-duplicate-ii) |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/0347-top-k-frequent-elements) |
@@ -37,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/0347-top-k-frequent-elements) |
 | [1019-squares-of-a-sorted-array](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/1019-squares-of-a-sorted-array) |
@@ -114,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/0344-reverse-string) |
 ## Stack
 |  |
