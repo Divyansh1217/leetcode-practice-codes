@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/0049-group-anagrams) |
 | [0120-triangle](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/0120-triangle) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/0215-kth-largest-element-in-an-array) |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/Divyansh1217/leetcode-practice-codes/tree/master/0219-contains-duplicate-ii) |
